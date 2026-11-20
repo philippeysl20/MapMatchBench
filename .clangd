@@ -1,2 +1,5 @@
 CompileFlags:
-  Add: [-std=c++23]
+  Add: 
+    - -std=c++23
+    - -I/home/philippe/Documents/Aalborg Universitet/MapMatchBench/.venv/lib/python3.14/site-packages/pybind11/include
+    - -I/usr/include/python3.14
